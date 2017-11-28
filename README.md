@@ -1,4 +1,4 @@
-# GitHub for Developers
+ # GitHub for Developers -> Newbies & Non Coders Beware!!! 
 
 - Class Date: November 27-December 1, 2017
 - Facilitator: @hectorsector
